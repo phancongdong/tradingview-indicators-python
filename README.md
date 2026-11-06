@@ -1,5 +1,8 @@
 # tradingview-indicators
 
+> 💬 **Cộng đồng**: Trao đổi AI, Quant, Bot trade tại: https://t.me/donkquantlab
+
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Tests Passing](https://img.shields.io/badge/tests-29%2F29%20passed-brightgreen.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
